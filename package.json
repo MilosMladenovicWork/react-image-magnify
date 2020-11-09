@@ -6,7 +6,6 @@
     "type": "git",
     "url": "git+https://github.com/MilosMladenovicWork/react-image-magnify.git"
   },
-
   "author": "Ethan Selzer <ethanselzer@gmail.com>",
   "license": "MIT",
   "bugs": {
